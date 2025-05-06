@@ -2,7 +2,7 @@ name: ShubhamCICD
 
 on:
   push:
-    branches: [ "main", "develop" ]
+    branches: [ "main"]
 
 jobs:
   compile:
